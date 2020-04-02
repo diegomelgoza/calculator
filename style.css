@@ -5,6 +5,8 @@ body {
     font-size: 50px;
     font-weight: bold; 
     text-align: center;
+    color: white;
+    margin: 50px;
     font-family: "Lucida Console", Courier, monospace;
 }
 
